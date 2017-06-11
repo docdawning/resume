@@ -10,9 +10,9 @@ Welcome to my Resume repo.
 
 <h2>Related Links</h2>
 <UL>
-<LI><a target="_new" href="https://www.linkedin.com/in/jamestsnell/">LinkedIn</a></LI>
-<LI><a target="_new" href="https://dawning.ca">Blog</a></LI>
-<LI><a target="_new" href="https://hackaday.io/projects/hacker/37449">Public projects</a></LI>
-<LI><a target="_new" href="https://stackexchange.com/users/49288/doc?tab=accounts">StackExchange</a></LI>
+<LI><a target="_blank" href="https://www.linkedin.com/in/jamestsnell/">LinkedIn</a></LI>
+<LI><a target="_blank" href="https://dawning.ca">Blog</a></LI>
+<LI><a target="_blank" href="https://hackaday.io/projects/hacker/37449">Public projects</a></LI>
+<LI><a target="_blank" href="https://stackexchange.com/users/49288/doc?tab=accounts">StackExchange</a></LI>
 </UL>
 
