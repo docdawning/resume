@@ -1,5 +1,5 @@
 <h2>Resume of James T Snell</h2>
-<img href="https://s3.amazonaws.com/static-dawning-ca/JamesSnellPhoto2017.png"/>
+<img src="https://s3.amazonaws.com/static-dawning-ca/JamesSnellPhoto2017.png" style="width:300px;"/>
 <p>
 Welcome to my Resume repo. You can view my latest resume intended for general consumption here: <a href="https://github.com/docdawning/resume/raw/master/JamesSnell-Resume.pdf">Resume of James T Snell</a>.
 
