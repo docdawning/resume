@@ -3,7 +3,7 @@
 <p>
 Welcome to my Resume repo. 
 
-<a href="https://github.com/docdawning/resume/raw/master/JamesSnell-Resume.pdf">View my resume</a>
+<a href="https://github.com/docdawning/resume/blob/master/JamesSnell-Resume.pdf">View my resume</a>
 
 <a href="https://github.com/docdawning/resume/raw/master/JamesSnell-Resume.pdf">Download my resume</a>
 </p>
