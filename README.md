@@ -1,5 +1,3 @@
-<head><base target="_blank"></head>
-
 <h2>Resume of James T Snell</h2>
 <img src="https://s3.amazonaws.com/static-dawning-ca/JamesSnellPhoto2017.png" width="100px"/>
 <p>
